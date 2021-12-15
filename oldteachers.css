@@ -1,0 +1,101 @@
+/* TEACHERS */
+
+
+.teachers{
+    margin: 50px 180px;
+}
+.teacher-box{
+    margin-bottom:16px;
+    padding:10px;
+    width: 1000px;
+    height: 300;
+    background-color: rgb(204, 215, 236);
+    border: 1px solid blue;
+    border-radius: 15px;
+}
+.teacher-box .photo {
+    display: inline-block;
+    vertical-align: top;
+}
+.teacher-box .phone{
+    background-color: rgb(199, 139, 199);
+    border:0px solid;
+    border-radius: 4px;
+    width: 100px;
+}
+.teacher-box .button{
+    margin: 0px 880px;
+}
+.star{
+    margin-top:5px;
+    margin-left: 15px;
+    font-size: 25px;
+    color: orange;
+}
+p{
+    display: inline;
+}
+
+/* TEAM  */
+.team .phototeam {
+    display: inline-block;
+    vertical-align: top;
+}
+.teachers .team ul{
+    background-color: rgb(204, 215, 236);
+    height: 450px;
+    width: 450px;
+}
+.teachers .team #ATeam{
+    margin-bottom: 10px;
+}
+.teachers .team hr{
+    margin-bottom: 20px;
+    margin-left: -25px;
+}
+
+
+.businessman #ul2{
+    background-color: rgb(204, 215, 236);
+    width: 400px;
+    height: 425px;
+    margin-left: 0px;
+}
+.businessman #man{
+    margin-left: -25px;
+}
+
+
+.student #ul3{
+    background-color: rgb(204, 215, 236);
+    height: 425px;
+    width: 400px;
+    margin-left: 0px;
+}
+.student #student{
+    margin-left: -25px;
+}
+
+
+.school #ul4{
+    background-color: rgb(204, 215, 236);
+    height: 425px;
+    width: 400px;
+    margin-left: 0px;
+}
+.school #school{
+    margin-left: -25px;
+}
+.businessman #ul2 .student #ul3 .school #ul4{
+    margin-top: 20px;
+}
+
+
+.you {
+    margin-bottom: 280px;
+    margin-left: 35px;
+    display: flex;
+}
+*{
+    margin: 5px;
+}
